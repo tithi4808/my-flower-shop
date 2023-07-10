@@ -1,0 +1,86 @@
+.header{
+    background: rgba(229, 84, 115, 0.10);
+    display: flex;
+    margin-bottom: 100px;
+}
+.headers{
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    display: flex;
+    margin-bottom: 100px;
+    
+
+}
+.add{
+    margin: 75px 200px 10px 150px;
+}
+.header-title{
+    color: #272727;
+    font-size: 60px;
+    font-weight: 800;
+    
+
+}
+.header-description{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+   
+    
+
+}
+.button{
+    border-radius: 8px;
+    background: #E55473;
+    padding: 20px 43px;
+    gap: 10px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    border: none ;
+}
+.image{
+    height: 600px;
+    width: 477px;
+    margin: 30px 100px 0px 0px ;
+
+}
+.off{
+    color: #E55473;
+}
+.deal-title{
+    color: #272727;
+    
+    font-size: 35px;
+}
+.deal{
+    padding: 0px 2px 10px 300px;
+
+}
+.new{
+    padding: 120px 150px 100px 300px;
+}
+.ph{
+    
+    padding: 70px 280px 70px 20px;
+    width: 220px;
+     height: 300px;
+}
+#t{
+    margin-left: 120px;
+}
+.h1{
+    text-align: center;
+    margin: 5px 500px 10px 500px;
+}
+.imgg{
+    margin: 0px 10px;
+    height: 296px;
+    width: 242px;
+}
+.im{
+    margin: 0px 100px 0px 180px;
+}
+.bg{
+    background-image:url("Rectangle 9.png")
+}
