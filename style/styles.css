@@ -108,3 +108,65 @@
 .copyright{
     color: rgba(253, 246, 246, 0.4);
 }
+.featured-flower{
+    text-align: center;
+    margin-bottom: 100px;
+   
+}
+.image-description1{
+    color: #272727
+    font-size: 18px;
+    font-weight: 80px;
+    text-decoration:underline;
+    margin-left:250px;
+          
+}
+.image-description2{
+    color: #272727
+    font-size: 18px;
+    font-weight: 80px;
+    text-decoration:underline;
+    text-align:center;        
+}
+.image-description3{
+    color: #272727
+    font-size: 18px;
+    font-weight: 80px;
+    text-decoration:underline;
+    margin-right:150px
+           
+}
+.feature-photo{
+    display: flex;
+    align-items: center;
+}
+#img1{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    height: 320px;
+    width: 220px;
+    padding: 80px 60px 0px 60px;
+    margin: 50px 30px 10px 230px;
+
+}
+#img2{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    height: 320px;
+    width: 220px;
+    padding: 80px 60px 0px 60px;
+    margin: 50px 30px 10px 0px;
+
+
+}
+#img3{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    height: 320px;
+    width: 220px;
+    padding: 80px 60px 0px 60px;
+    margin: 50px 200px 10px 0px;
+
+
+
+}
